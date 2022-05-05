@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    height:30rem;
+    width: 100%;
+}
+.background{
+    background-color: white;
+    margin: 18.6rem;
+    height: 11.3rem;
+    width: 60%;
+    padding: 1rem;
+
+
+}
+.upbox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 17px;
+     background: rgb(56,77,75);
+    background: linear-gradient(90deg, rgba(56,77,75,0.8333177395209581) 0%, rgba(52,93,86,1) 9%, rgba(48,107,96,1) 17%, rgba(45,120,104,1) 24%, rgba(42,133,112,1) 29%, rgba(42,133,112,1) 35%, rgba(43,135,112,1) 40%, rgba(50,150,125,1) 46%, rgba(40,153,125,1) 51%, rgba(49,140,118,1) 55%, rgba(29,140,113,1) 62%, rgba(56,174,146,1) 71%, rgba(44,187,153,1) 78%, rgba(22,210,164,1) 88%);;
+}
+.downbox{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 12px;
+    font-size:20px;
+    padding: 2rem;
+
+    background: rgb(56,77,75);
+    background: linear-gradient(90deg, rgba(56,77,75,0.8333177395209581) 0%, rgba(52,93,86,1) 9%, rgba(48,107,96,1) 17%, rgba(45,120,104,1) 24%, rgba(42,133,112,1) 29%, rgba(42,133,112,1) 35%, rgba(43,135,112,1) 40%, rgba(50,150,125,1) 46%, rgba(40,153,125,1) 51%, rgba(49,140,118,1) 55%, rgba(29,140,113,1) 62%, rgba(56,174,146,1) 71%, rgba(44,187,153,1) 78%, rgba(22,210,164,1) 88%);;
+}
+:hover:{
+    background-color: black;
+    width: 70px;
+    border: 1px solid black;
+    height: 4rem;
+}
